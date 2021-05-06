@@ -56,3 +56,4 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
 <h3>Agradecimentos:</h3>
 <p>Para <a href="https://github.com/acidanthera">Acidanthera</a> pelo OpenCore em si, pelas ferramentas e pelas kexts.</p>
 <p>Para <a href="https://github.com/corpnewt">CorpNewt</a> pelas excelentes e muito úteis ferramentas também.</p>
+<p>Para alguns desenvolvedores independentes que fizeram algumas kexts usadas.</p>
