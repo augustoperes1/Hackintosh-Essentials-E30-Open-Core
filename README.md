@@ -13,7 +13,7 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
 <li><p><i>Eu <b>NÃO</b> testei essa EFI no Big Sur, apenas no Catalina 10.15.7 (versão que estou utilizando no momento) e no Mojave 10.14.6 e ambas funcionaram muito bem</i></p></li>
 <li><p><i>Eu <b>NÃO</b> me responsabilizo por quaisquer danos que o procedimento possa causar, entenda que o Hackintosh ainda é uma "gambiarra", por isso recomendo um pendrive bootável com a ISO do Windows 10 e um backup prévio dos arquivos caso você não consiga bootar ou fazer algo de errado.</i></p></li>
 <li><p><i>Isso <b>NÃO</b> é um tutorial de instalação do macOS, você ainda terá que baixar a imagem de recuperação do macOS <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/">aqui</a>, e colocar os arquivos na raíz do pendrive.</i></p></li>
-<li><p><i><b>NÃO</b> vem com SMBIOS configurado, então recomendo fortemente você baixar o GENSMBIOS <a href="https://github.com/corpnewt/GenSMBIOS">aqui</a> e gerar o seu próprio número de série checando no <a href="https://checkcoverage.apple.com/br/pt/">site da Apple</a> para ver se o número de série gerado é válido. UTILIZE MacBookPro14,1 como System Product Name</i></p></li>
+<li><p><i><b>NÃO</b> vem com SMBIOS configurado, então recomendo fortemente você baixar o GenSMBIOS <a href="https://github.com/corpnewt/GenSMBIOS">aqui</a> e gerar o seu próprio número de série checando no <a href="https://checkcoverage.apple.com/br/pt/">site da Apple</a> para ver se o número de série gerado é válido. UTILIZE MacBookPro14,1 como System Product Name</i></p></li>
   </ol>
 
 <h2>Vamos conferir o hardware desse notebook:</h2>
