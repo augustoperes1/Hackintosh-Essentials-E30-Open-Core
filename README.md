@@ -1,5 +1,5 @@
 # Hackintosh no Samsung Essentials E30
-<img src="https://i.imgur.com/iiuBNML.png" height="320"> <img src="https://i.imgur.com/QZrrss8.png" height="320">
+<img src="https://i.imgur.com/iiuBNML.png" height="300"> <img src="https://i.imgur.com/QZrrss8.png" height="300">
 
 EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo nacional) usando o Open Core Bootloader na variante RELEASE
 
@@ -42,8 +42,8 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
   <h6>Se quiser usar a internet, há três opções: ou usando pelo cabo Ethernet (como eu), ou comprando um dongle Wi-Fi (recomendo o TL-WN725N da TP-LINK e em seguida baixar o driver correspondente no <a href="https://www.tp-link.com/br/support/download/tl-wn725n/v3/#Driver">site deles</a>), ou usando o Tethering USB em um telefone Android, baixando <a href="https://github.com/jwise/HoRNDIS/releases"> este driver</a> para macOS.</h6>
 
 <h2>Outras prints:</h2>
-<img src="https://i.imgur.com/4Qdtl6B.png" height="500">
-<img src="https://i.imgur.com/agcdYxE.png" height="500">
-<img src="https://i.imgur.com/WjPzggp.png" height="500">
-<img src="https://i.imgur.com/lrzJQGD.png" height="500">
-<img src="https://i.imgur.com/d5IU0lN.png" height="500">
+<img src="https://i.imgur.com/4Qdtl6B.png" height="400">
+<img src="https://i.imgur.com/agcdYxE.png" height="400">
+<img src="https://i.imgur.com/WjPzggp.png" height="400">
+<img src="https://i.imgur.com/lrzJQGD.png" height="400">
+<img src="https://i.imgur.com/d5IU0lN.png" height="400">
