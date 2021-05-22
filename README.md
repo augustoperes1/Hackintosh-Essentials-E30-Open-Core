@@ -42,7 +42,7 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
   <li><h4>✅   Teclado e Mouse USB funcionando bem</h4></li>
   <li><h4>✅   Rede Ethernet (internet via cabo)</h4></li>
   <li><h4>✅   Placa gráfica funcionando e com aceleração via GPU funcionando</h4></li>
-  <li><h4>❌   Touchpad ATMEL3000 NÃO FUNCIONA até o momento</h4></li>
+  <li><h4>❌   Touchpad ATML3000 NÃO FUNCIONA até o momento</h4></li>
   <h6>Um mouse USB é a melhor alternativa</h6>
   <li><h4>❌   Placa de Wi-Fi Qualcomm Atheros QCA9377 não funciona de jeito nenhum</h4></li>
   <h6>Se quiser usar a internet, há três opções: ou usando pelo cabo Ethernet (como eu), ou comprando um dongle Wi-Fi (recomendo o TL-WN725N da TP-LINK e em seguida baixar o driver correspondente no <a href="https://www.tp-link.com/br/support/download/tl-wn725n/v3/#Driver">site deles</a>), ou usando o Tethering USB em um telefone Android, baixando <a href="https://github.com/jwise/HoRNDIS/releases"> este driver</a> para macOS.</h6>
