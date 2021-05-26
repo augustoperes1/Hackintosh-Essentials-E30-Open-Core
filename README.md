@@ -16,6 +16,11 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
 <li><p><i>Isso <b>NÃO</b> é um tutorial de instalação do macOS, você ainda terá que baixar a imagem de recuperação do macOS <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/">aqui</a>, e colocar os arquivos na raíz do pendrive.</i></p></li>
 <li><p><i><b>NÃO</b> vem com SMBIOS configurado, então recomendo fortemente você baixar o GenSMBIOS <a href="https://github.com/corpnewt/GenSMBIOS">aqui</a> e gerar o seu próprio número de série checando no <a href="https://checkcoverage.apple.com/br/pt/">site da Apple</a> para ver se o número de série gerado é inválido. UTILIZE MacBookPro14,1 como System Product Name. <b>OBS.: É fortemente recomendado cada um que baixar, gerar seu próprio SMBIOS, para não ter futuros erros nos iServices, como: FaceTime, iMessage, iCloud e etc...</b></i></p></li>
   </ol>
+<h4>SOBRE ATUALIZAÇÕES DO MACOS:</h4>
+<ul>
+  <li><p>Realmente <b>NÃO É RECOMENDADO</b> atualizar para versões futuras, havendo assim, quebra de versão. Por exemplo: se você está no macOS 10.14, <b>NÃO ATUALIZE</b> para a 10.15, ou até mesmo para o 11 Big Sur!</p></li>
+  <li><p>Atualizações de Segurança, Atualização do Safari, essas mais simples, que não exigem a quebra de versões major, pode fazer sem mais problemas.</p></li>
+</ul>
 
 <h2>Vamos conferir o hardware desse notebook:</h2>
 <ul>
