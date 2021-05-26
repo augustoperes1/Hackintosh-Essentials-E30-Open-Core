@@ -36,7 +36,7 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
 </ul>
 <ul>
   <li><h4>HD mecânico com 1TB de armazenamento e funcionando a 5400 RPM</h4></li>
-  <h6>Recomendo fortemente que você compre um SSD NVME M.2 (pois esse notebook tem suporte a esse tipo de SSD) e instale o macOS nele. Eu tenho atualmente um SSD NVME M.2 de 256GB onde está instalado o macOS Catalina, uso o HD mecânico original dele apenas para armazenar arquivos.</h6></ul>
+  <h6>Recomendo fortemente que você compre um SSD NVME M.2 (pois esse notebook tem suporte a esse tipo de SSD) e instale o macOS nele. <b>Caso você queira comprar um SSD NVME, consulte <a href="https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html">esse site</a> para ver quais modelos você NÃO DEVE COMPRAR, pois pode dar conflito com o macOS.</b> Eu tenho atualmente um SSD NVME M.2 de 256GB onde está instalado o macOS Catalina, uso o HD mecânico original dele apenas para armazenar arquivos.</h6></ul>
   
   Como pode ver, ele é um notebook mediano, mas com alguns upgrades, como os citados acima, ele fica perfeito para o Hackintosh em quesito de performance, dá para trabalhar e estudar tranquilamente nele.
   
