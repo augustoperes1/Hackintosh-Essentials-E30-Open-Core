@@ -51,7 +51,7 @@ EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo
   <h6>Um mouse USB é a melhor alternativa</h6>
   <li><h4>❌   Placa de Wi-Fi Qualcomm Atheros QCA9377 não funciona de jeito nenhum</h4></li>
   <h6>Ela é considerada uma placa morta no mundo Hackintosh, porque é antiga e mesmo assim não tem suporte e nenhum desenvolvedor se interessou em criar uma kext para ela</h6>
-  <h6>Se quiser usar a internet, há três opções: ou usando pelo cabo Ethernet (como eu), ou comprando um dongle Wi-Fi (recomendo o TL-WN725N da TP-LINK e em seguida baixar o driver correspondente no <a href="https://www.tp-link.com/br/support/download/tl-wn725n/v3/#Driver">site deles</a>), ou usando o Tethering USB em um telefone Android, baixando <a href="https://github.com/jwise/HoRNDIS/releases"> este driver</a> para macOS.</h6>
+  <h6>Se quiser usar a internet, há três opções: ou usando pelo cabo Ethernet (como eu), ou comprando um dongle Wi-Fi (recomendo o TL-WN725N ou o TL-WN823N, ambos da TP-LINK e em seguida baixar o driver correspondente no <a href="https://www.tp-link.com/br/support/download/tl-wn725n/v3/#Driver">site deles</a>), ou usando o Tethering USB em um telefone Android, baixando <a href="https://github.com/jwise/HoRNDIS/releases"> este driver</a> para macOS.</h6>
 
 <h2>Outras prints:</h2>
 <img src="https://i.imgur.com/4Qdtl6B.png" height="400">
