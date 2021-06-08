@@ -7,7 +7,7 @@ Ajude-me a melhorar essa EFI também!
 ## Versão usada na EFI:
 
 <p align="center">
-<img src="https://i.imgur.com/rNl7upl.png" height="100" alt="Versão do OpenCore usado nessa EFI" />
+<img src="https://i.imgur.com/DQJunjK.png" height="100" alt="Versão do OpenCore usado nessa EFI" />
 </p>
 
 ### EFI configurada para Hackintosh no Samsung Essentials E30 NP350XAA-KF3BR (modelo nacional) usando o Open Core Bootloader
