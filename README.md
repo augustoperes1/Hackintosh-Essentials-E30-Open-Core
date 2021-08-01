@@ -2,7 +2,8 @@
 
 Ajude-me a melhorar essa EFI também!
 
-<img src="https://i.imgur.com/iiuBNML.png" height="290"> <img src="https://i.imgur.com/QZrrss8.png" height="280">
+<img src="https://i.imgur.com/iiuBNML.png" height="290"> <img src="https://i.imgur.com/kk3rgpQ.png" height="290">
+<img src="https://i.imgur.com/QZrrss8.png" height="280">
 
 ## Versão usada na EFI:
 
@@ -63,6 +64,11 @@ Ajude-me a melhorar essa EFI também!
 <img src="https://i.imgur.com/WjPzggp.png" height="400">
 <img src="https://i.imgur.com/lrzJQGD.png" height="400">
 <img src="https://i.imgur.com/d5IU0lN.png" height="400">
+
+<img src="https://i.imgur.com/dC3DUw5.png" height="400">
+<img src="https://i.imgur.com/YotKezR.png" height="400">
+<img src="https://i.imgur.com/XLxNOvZ.png" height="400">
+<img src="https://i.imgur.com/KXFKgyJ.png" height="400">
 
 <h3>Agradecimentos:</h3>
 <p>Para <a href="https://github.com/acidanthera">Acidanthera</a> pelo OpenCore em si, pelas ferramentas e pelas kexts;</p>
